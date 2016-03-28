@@ -1,0 +1,11 @@
+#tools{
+    -fx-background-color: gray;
+}
+#btn:hover
+{
+    -fx-text-fill:white;
+    -fx-background-color:#38424B;
+    -fx-effect: dropshadow( one-pass-box , white , 0 , 0 , 0, 5 );
+    
+}
+ 
